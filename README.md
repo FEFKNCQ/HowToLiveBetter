@@ -3,17 +3,12 @@
 > 正文以 [CC BY 4.0](LICENSE) 许可发布，版权归原作者 eternity4719 所有；代码以 [MIT](LICENSE-CODE) 许可。原始版权与许可声明均完整保留、未作修改；本 fork 仅作源码镜像备份，下载请前往[原项目 Releases](https://github.com/eternity4719/HowToLiveBetter/releases)或[夸克网盘备份](https://pan.quark.cn/s/8be3d7e03038)。
 > 原始出处：https://github.com/eternity4719/HowToLiveBetter
 
-*⬇️ 网盘备份下载（微信扫码即可）/ Backup download (Quark Drive)*
-
-建议微信扫码下载：
-
+*⬇️ > **🌐 国内 / 网络不佳时的下载备选（网盘镜像）**
+> 如果你在中国大陆，或访问 GitHub 出现**下载慢、速度为 0、`Failed to fetch`、`network error`、页面打不开**等情况，请**直接使用下方夸克网盘链接下载**，无需访问 GitHub：
+> **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
+>
+> 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/HowToLiveBetter/releases) 或 [原项目 Releases](https://github.com/eternity4719/HowToLiveBetter/releases) 下载。
 <img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
-
-网盘链接 https://pan.quark.cn/s/8be3d7e03038
-
-本 fork 的 GitHub Releases（镜像备份）：[https://github.com/M49P6BK/HowToLiveBetter/releases](https://github.com/M49P6BK/HowToLiveBetter/releases)
-
-也可[前往原项目下载](https://github.com/eternity4719/HowToLiveBetter/releases)。 / You can also [download from the original project](https://github.com/eternity4719/HowToLiveBetter/releases).
 
 <div align="center">
 
