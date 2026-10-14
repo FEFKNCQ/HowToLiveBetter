@@ -329,7 +329,7 @@ A 级只说明「有具体数字、出处可核」，不说明这个数字一定
 
 ## Star 走势
 
-[![Star History Chart](https://api.star-history.com/svg?repos=eternity4719/HowToLiveBetter&type=Date)](https://star-history.com/#eternity4719/HowToLiveBetter&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=M49P6BK/HowToLiveBetter&type=Date)](https://star-history.com/#M49P6BK/HowToLiveBetter&Date)
 
 ## 赞赏
 
