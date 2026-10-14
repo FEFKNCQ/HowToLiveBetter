@@ -42,6 +42,8 @@ git clone --depth 1 https://github.com/eternity4719/HowToLiveBetter.git "${TMPDI
 
 整本 1.3 MB，浅克隆一次几秒。取不到网络就如实说取不到，不替代正文。
 
+想直接读整本书（不靠 AI）：去原项目 [Releases](https://github.com/eternity4719/HowToLiveBetter/releases) 取 PDF / EPUB / 离线 HTML / Anki 牌组，或取[夸克网盘备份](https://pan.quark.cn/s/8be3d7e03038)（口令 / share code `/~c8983bS5PB~:/`）。 / To read the whole book directly (without AI): get the PDF / EPUB / offline HTML / Anki deck from the [original project Releases](https://github.com/eternity4719/HowToLiveBetter/releases), or the [Quark Drive backup](https://pan.quark.cn/s/8be3d7e03038) (share code `/~c8983bS5PB~:/`).
+
 ## 改动须知
 
 SKILL.md 里不留任何会跟着正文漂的清单和数值：节的清单去读 README 的「这本书想回答的问题」表，性价比档的算法去读 `index.html` 里的 `COST_W` 和 `e.ratio` 两行。所以增删节、改档位规则都不用动这个目录。

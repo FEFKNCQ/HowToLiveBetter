@@ -5,13 +5,13 @@
 
 <div align="center">
 
-**⬇️ 网盘备份下载（夸克网盘）**
+**⬇️ 网盘备份下载（夸克网盘）/ Backup download (Quark Drive)**
 
-扫码或点链接下载：**[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)**（口令 `/~c8983bS5PB~:/`）
+扫码或点链接下载：**https://pan.quark.cn/s/8be3d7e03038**（口令 / share code：`/~c8983bS5PB~:/`）
 
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
 
-也可[前往原项目下载](https://github.com/eternity4719/HowToLiveBetter/releases)。
+也可[前往原项目下载](https://github.com/eternity4719/HowToLiveBetter/releases)。 / You can also [download from the original project](https://github.com/eternity4719/HowToLiveBetter/releases).
 
 </div>
 
