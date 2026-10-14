@@ -2,7 +2,19 @@
 > 本仓库是 [eternity4719/HowToLiveBetter](https://github.com/eternity4719/HowToLiveBetter) 的 fork（分支），作为原作者删除后的备份。
 > 正文以 [CC BY 4.0](LICENSE) 许可发布，版权归原作者 eternity4719 所有；代码以 [MIT](LICENSE-CODE) 许可。原始版权与许可声明均完整保留、未作修改，下载资源已重新托管到本 fork 的 Release。
 > 原始出处：https://github.com/eternity4719/HowToLiveBetter
->
+
+<div align="center">
+
+**⬇️ 网盘备份下载（夸克网盘）**
+
+扫码或点链接下载：**[https://pan.quark.cn/s/8be3d7e03038](https://pan.quark.cn/s/8be3d7e03038)**（口令 `/~c8983bS5PB~:/`）
+
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
+
+也可[前往原项目下载](https://github.com/eternity4719/HowToLiveBetter/releases)。
+
+</div>
+
 <div align="center">
 
 <img src="og.png" alt="高性价比人生指南 —— 用最少的钱、时间和精力，换回最多的寿命、金钱和人身自由" width="820">
