@@ -8,7 +8,7 @@
 > **夸克网盘**：https://pan.quark.cn/s/8be3d7e03038 （微信扫码或点链接即可，含完整 release 文件）
 >
 > 若 GitHub 访问正常，也可在 [本 fork 的 Releases](https://github.com/M49P6BK/HowToLiveBetter/releases) 或 [原项目 Releases](https://github.com/eternity4719/HowToLiveBetter/releases) 下载。
-<img src="download-qr.png" width="160" alt="夸克网盘下载二维码 / Quark Drive QR code">
+<img src="download-qr.png" width="160" alt="夸克网盘下载二维码">
 
 <div align="center">
 
